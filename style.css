@@ -1,0 +1,15 @@
+*{
+    margin: 20px;
+    padding: 20px ;
+
+}
+p{
+    background-color: rgb(150, 108, 226);
+
+}
+.about{
+    color: rgb(180, 14, 14);
+}
+.done{
+    color: green;
+}
